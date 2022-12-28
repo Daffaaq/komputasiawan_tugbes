@@ -29,7 +29,8 @@
 <body>
     <div class="judul">
         <img src="/image/logo.png">
-        <img src="/image/Rectangle.png" class="pembatas">
+        <!-- <img src="/image/Rectangle.png" class="pembatas"> -->
+        <img src="https://storage.googleapis.com/uas_komputawan/Rectangle.png" alt="Rectangle.png" class="pembatas">
         <div class="nama">
             <h2 class="siakad">SISTEM INFORMASI AKADEMIK MAN 1</h2>
             <h2 class="kota">KOTA MALANG</h2>
